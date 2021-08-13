@@ -1,6 +1,8 @@
 
+![header](https://capsule-render.vercel.app/api?type=waving)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!)
 
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
+
 
 
 
@@ -21,7 +23,7 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+
 
 
 
