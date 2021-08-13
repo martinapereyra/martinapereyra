@@ -1,5 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?color=auto)
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
+
 
 
 <h1 align="center">Hi 👋, I'm Martina</h1>
