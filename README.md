@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving ?text=Hi 👋, I'm Martina!)
+![header](https://capsule-render.vercel.app/api?type=waving)
 
 
 
