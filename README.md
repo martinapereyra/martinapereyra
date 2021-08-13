@@ -3,10 +3,6 @@
 
 
 
-
-
-
-<h1 align="center">Hi 👋, I'm Martina</h1>
 <div align="center">
  <br>
 <h3 align="center">Skills</h3>
