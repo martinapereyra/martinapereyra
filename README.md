@@ -1,7 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving)
-![header](text="Hello Wordl")
-
+![header](https://capsule-render.vercel.app/api?text=Hi 👋, I'm Martina!)
 
 
 
